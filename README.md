@@ -1,1 +1,1 @@
-Thi is a simple project, to emphasizon the fucntionality of git.
+Thi is a simple project, to emphasize on the fucntionality of git.
