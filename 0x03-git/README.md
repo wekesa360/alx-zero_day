@@ -1,1 +1,1 @@
-# 0x03-git project folder
+## 0x03-git project folder for shell and git command practices.
